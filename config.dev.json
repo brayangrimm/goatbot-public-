@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "༒ TAILS ❄ BOT ༒",
+	"nickNameBot": "༒ Léa ❄ Horikita ༒",
 	"prefix": "€",
 	"adminOnly": {
 		"enable": false,
@@ -21,6 +21,7 @@
 	"adminBot": [
 		
 		"61578281565957,"
+		"61575005581638,"
 	],
 	"whiteListMode": {
 		"enable": false,
